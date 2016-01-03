@@ -1,0 +1,8 @@
+Hi Omid-
+
+I'm attaching source code that generates the data for our experiments with SVM as well as two methods that more generally 
+solve the problem (DistributedMinimize.m and DistributedProjectedSubgrad.m). I believe to make all the code run, 
+you'll need to have CVX installed (http://cvxr.com/cvx/).
+
+Cheers,
+John
